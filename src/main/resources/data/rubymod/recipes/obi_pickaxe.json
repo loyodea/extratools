@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "obimod:obi_ingot"
+  },
+  "result": {
+    "item": "obimod:obi_pickaxe"
+  }
+}

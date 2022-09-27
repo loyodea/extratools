@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": "obimod:obi_ingot",
+  "experience": 0.35,
+  "cookingtime": 300
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "addition": {
+    "item": "obimod:obi_ingot"
+  },
+  "result": {
+    "item": "obimod:obi_axe"
+  }
+}
